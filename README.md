@@ -1,2 +1,2 @@
 # AWS
-Contains projects and notes og AWS
+Contains projects and notes of AWS
